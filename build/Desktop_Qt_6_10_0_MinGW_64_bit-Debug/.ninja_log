@@ -1,0 +1,22 @@
+# ninja log v6
+25	160	7855265679950749	D:/Backtester/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	21d952df7ef304c0
+1408	9140	7850288014448542	CMakeFiles/Backtester.dir/Backtester_autogen/mocs_compilation.cpp.obj	683580730f5c3c77
+1421	10457	7850288014609214	CMakeFiles/Backtester.dir/mainwindow.cpp.obj	c6a7ee3227adbbe7
+148	1109	7850288009409097	Backtester_autogen/timestamp	9608e8b44bacb2e8
+148	1109	7850288009409097	Backtester_autogen/mocs_compilation.cpp	9608e8b44bacb2e8
+1414	9193	7850288014448542	CMakeFiles/Backtester.dir/main.cpp.obj	8d7e97360a8a1bd3
+148	1109	7850288009409097	D:/Backtester/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/Backtester_autogen/timestamp	9608e8b44bacb2e8
+148	1109	7850288009409097	D:/Backtester/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/Backtester_autogen/mocs_compilation.cpp	9608e8b44bacb2e8
+10457	11252	7850288104890340	Backtester.exe	d1d5f9339e91cb96
+1433	8336	7850288014767803	CMakeFiles/Backtester.dir/BollingerBandsStrategy.cpp.obj	bc455de3d9532483
+252	1641	7855265693604285	build.ninja	fe094ce485711ef1
+1443	9318	7850288014834479	CMakeFiles/Backtester.dir/backtester.cpp.obj	b9d77018015826a8
+171	213	7855265659611340	CMakeFiles/clean.additional	baedbe210acaa455
+213	225	7855265660041850	clean	577b940aee94fbd7
+1110	1408	7850288013546470	Backtester_autogen/EWIEGA46WW/qrc_resources.cpp	4a922b64c281daa4
+1110	1408	7850288013546470	D:/Backtester/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/Backtester_autogen/EWIEGA46WW/qrc_resources.cpp	4a922b64c281daa4
+1449	2015	7850288014925247	CMakeFiles/Backtester.dir/Backtester_autogen/EWIEGA46WW/qrc_resources.cpp.obj	cad4352a4db62c90
+1427	8497	7850288014609214	CMakeFiles/Backtester.dir/SmaCrossStrategy.cpp.obj	a41360481fbf7e58
+1438	8625	7850288014796046	CMakeFiles/Backtester.dir/RsiStrategy.cpp.obj	b300e5bdeaa66738
+160	1600	7855265693604285	build.ninja	fe094ce485711ef1
+36	221	7855265695374288	D:/Backtester/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	21d952df7ef304c0

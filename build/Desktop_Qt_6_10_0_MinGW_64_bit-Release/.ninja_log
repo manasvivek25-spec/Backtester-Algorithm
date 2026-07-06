@@ -1,0 +1,22 @@
+# ninja log v6
+79	237	7855272312385065	D:/Backtester/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release/CMakeFiles/cmake.verify_globs	aa078075e95e7568
+264	1205	7855272195881507	D:/Backtester/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release/Backtester_autogen/timestamp	c5eeb2b5a14781e4
+241	251	7855272157996981	clean	577b940aee94fbd7
+1206	1392	7855272198213610	Backtester_autogen/EWIEGA46WW/qrc_resources.cpp	df55e20468d87f1f
+218	241	7855272157784205	CMakeFiles/clean.additional	321391b2684b2653
+264	1205	7855272195881507	Backtester_autogen/timestamp	c5eeb2b5a14781e4
+264	1205	7855272195881507	Backtester_autogen/mocs_compilation.cpp	c5eeb2b5a14781e4
+264	1205	7855272195881507	D:/Backtester/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release/Backtester_autogen/mocs_compilation.cpp	c5eeb2b5a14781e4
+1206	1392	7855272198213610	D:/Backtester/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release/Backtester_autogen/EWIEGA46WW/qrc_resources.cpp	df55e20468d87f1f
+1429	1558	7855272199173617	CMakeFiles/Backtester.dir/Backtester_autogen/EWIEGA46WW/qrc_resources.cpp.obj	540b28e64dd296b9
+1409	4067	7855272198973632	CMakeFiles/Backtester.dir/SmaCrossStrategy.cpp.obj	28ce9bcaaf54c2e
+1414	4269	7855272199033600	CMakeFiles/Backtester.dir/BollingerBandsStrategy.cpp.obj	51a47daa21988858
+5143	5830	7855272236315791	Backtester.exe	2ddccf802700ae1b
+1419	4225	7855272199083594	CMakeFiles/Backtester.dir/RsiStrategy.cpp.obj	af180c8aa5936b1b
+1398	4502	7855272198873595	CMakeFiles/Backtester.dir/main.cpp.obj	42644200aa3cbc6a
+1392	4531	7855272198813620	CMakeFiles/Backtester.dir/Backtester_autogen/mocs_compilation.cpp.obj	6af02369f02e85cb
+1424	4914	7855272199123602	CMakeFiles/Backtester.dir/backtester.cpp.obj	e9dce11447bba132
+1404	5142	7855272198923584	CMakeFiles/Backtester.dir/mainwindow.cpp.obj	3cf8f32678bd2bf9
+181	1633	7855272325435009	build.ninja	a18cad3d7fbaaca
+237	1621	7855272325435009	build.ninja	a18cad3d7fbaaca
+28	170	7855272327197033	D:/Backtester/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release/CMakeFiles/cmake.verify_globs	aa078075e95e7568
